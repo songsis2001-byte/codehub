@@ -1,0 +1,57 @@
+h1+h2 {
+
+    color: greenyellow;
+}
+button:active {
+    color: red;
+}
+input:checked + label {
+color: yellow;
+}
+input:disabled
+button {
+    background-color: gray;
+}
+p{
+    font-size: 30px;
+    line-height: 1.5;
+}
+.variant{
+    font-variant: normal small-caps;
+}
+h1{
+    color: #ff0000;
+}
+p{
+text-align:   center;
+}
+h1~h2{
+    text-decoration: underline;
+}
+h2{letter-spacing: 5px;
+}
+h1{
+    margin: 20px 10px
+    30px 40px;
+}
+.first{
+    margin-bottom: 20px;
+}
+.second{
+    margin-bottom: 30px;
+}
+.first{
+    border-style: solid;
+}
+div{
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+
+div{
+    width: 755px;
+    height: 718px;
+    background-image: url(image/if-franky-used-a-different-type-of-soda-as-fuel-instead-of-v0-wm68q1prvyub1.webp);
+}
